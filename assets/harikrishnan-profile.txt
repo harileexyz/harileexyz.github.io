@@ -1,5 +1,5 @@
 HARIKRISHNAN V S
-Lead Engineer | AI Systems, Workflow Automation & Android
+Lead Engineer | AI Agents, RAG, Chatbots & App Development
 Bengaluru, India | Remote freelance projects
 Email: leehari007@gmail.com
 Website: https://harileexyz.github.io/
@@ -7,20 +7,21 @@ LinkedIn: https://www.linkedin.com/in/harikrishnan-code/
 GitHub: https://github.com/harileexyz
 
 ABOUT
-Lead engineer with 7+ years of experience building AI systems, cloud infrastructure, test automation and native Android applications. My work combines full-stack engineering with permission checks, human review and clear records of automated work.
+Lead engineer with 7+ years of engineering experience across AI systems, cloud infrastructure, test automation and native mobile development. I offer end-to-end development and deployment of AI agents, RAG systems, chatbots, and applications for web, iOS and Android. My work combines full-stack engineering with permission checks, human review and clear records of automated work.
 
 HOW I CAN HELP
-- AI assistants connected to your documents and business tools
-- AI workflows with review and approval steps
-- AWS services and worker infrastructure
-- Test automation frameworks and tool integrations
-- Native Android apps, app modernization and testing
+- Design, development and deployment of AI agents and multi-agent workflows
+- Retrieval-augmented generation (RAG): assistants that use your documents and data
+- Chatbots and business assistants connected to your tools
+- Web, iOS and Android application development
+- Backend services, AWS infrastructure and cloud deployment
+- Workflow automation, test frameworks and app modernization
 
 SELECTED WORK
-Forge: Contributed across the interface, backend and AWS infrastructure of an internal AI workflow platform. Built workflow review screens, project health views, isolated work runs, approval evidence, cloud workers and cloud/Mac test execution options.
+AI workflow orchestration platform: Contributed across the interface, backend and AWS infrastructure of an internal AI workflow platform. Built workflow review screens, project health views, isolated work runs, approval evidence, cloud workers and cloud/Mac test execution options.
 Technologies: Python, FastAPI, React, TypeScript, PostgreSQL, AWS, Terraform.
 
-Compass: Built full-stack features for an internal business intelligence platform. Contributions included a shared AI execution loop, permission-aware tools, conversation records, answer feedback, account data views and automated email briefings.
+Business intelligence assistant: Built full-stack features for an internal business intelligence platform. Contributions included a shared AI execution loop, permission-aware tools, conversation records, answer feedback, account data views and automated email briefings.
 Technologies: TypeScript, Node.js, Express, React, Prisma, Snowflake, ClickHouse.
 
 CAREER
