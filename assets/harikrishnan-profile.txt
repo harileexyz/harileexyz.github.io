@@ -1,28 +1,59 @@
 HARIKRISHNAN V S
-Lead Engineer | AI Agents, RAG, Chatbots & App Development
+Lead Engineer | AI Agents, Business Data, Cloud Workers & Applications
 Bengaluru, India | Remote freelance projects
 Email: leehari007@gmail.com
 Website: https://harileexyz.github.io/
 LinkedIn: https://www.linkedin.com/in/harikrishnan-code/
 GitHub: https://github.com/harileexyz
 
-ABOUT
-Lead engineer with 7+ years of engineering experience across AI systems, cloud infrastructure, test automation and native mobile development. I offer end-to-end development and deployment of AI agents, RAG systems, chatbots, and applications for web, iOS and Android. My work combines full-stack engineering with permission checks, human review and clear records of automated work.
+PROFILE
+Lead engineer with 7+ years of engineering experience across AI systems, AWS infrastructure, test automation and native mobile development. I connect AI to business data and application tools, build permission checks and execution controls, and develop the cloud services that run the work. I also offer web, iOS, Android and desktop application development.
 
-HOW I CAN HELP
-- Design, development and deployment of AI agents and multi-agent workflows
-- Retrieval-augmented generation (RAG): assistants that use your documents and data
-- Chatbots and business assistants connected to your tools
-- Web, iOS and Android application development
-- Backend services, AWS infrastructure and cloud deployment
-- Workflow automation, test frameworks and app modernization
+SELECTED RESULTS FROM PREVIOUS ROLES
+- Msigma: learning app downloads grew from 5,000 to 15,000 (200% growth).
+- Msigma: led a 15-person cross-functional team. A separate assessment app improved its rating from 4.0 to 4.2.
+- Deloitte: unit-test coverage increased from 60% to 85% for critical modules.
+- Deloitte: app load time fell by 30% after performance-focused refactoring.
+- Deloitte: manual testing effort fell by 40% following unit-test work.
+- Mac test-host operations: fixed two runaway background processes using roughly 60-90% CPU each; their usage dropped to near zero. This is a process-level result, not an overall host CPU or cost-saving claim.
 
-SELECTED WORK
-AI workflow orchestration platform: Contributed across the interface, backend and AWS infrastructure of an internal AI workflow platform. Built workflow review screens, project health views, isolated work runs, approval evidence, cloud workers and cloud/Mac test execution options.
-Technologies: Python, FastAPI, React, TypeScript, PostgreSQL, AWS, Terraform.
+SPECIFIC SERVICES
+Permission-aware RAG and business assistants: document and data connectors, retrieval and source context, role-based access, and chat interfaces. RAG means retrieval-augmented generation: bringing relevant source material into an AI answer.
 
-Business intelligence assistant: Built full-stack features for an internal business intelligence platform. Contributions included a shared AI execution loop, permission-aware tools, conversation records, answer feedback, account data views and automated email briefings.
-Technologies: TypeScript, Node.js, Express, React, Prisma, Snowflake, ClickHouse.
+AI agents with operational controls: validated tools, execution limits, cancellation, conversation and tool-call records, token and estimated-cost tracking, answer feedback and administrator review.
+
+AWS background workers and deployment: container workers, asynchronous execution, Terraform infrastructure, configuration and secrets, and deployment checks for long-running AI, test and processing jobs.
+
+EC2 Mac test-worker setup: runner installation, bounded job slots, queues, signed releases, host checks and restart recovery for Mac-dependent workloads.
+
+Test automation and app performance: Cucumber frameworks, AI-assisted test generation, unit tests, browser and API checks, regression testing, and targeted Android performance improvements.
+
+Web, iOS, Android and desktop applications: product flows, interfaces, backend integrations, automated checks and deployment. Past shipped-role experience is strongest in Android; public projects also demonstrate full-stack web tools and Electron desktop workflows.
+
+SELECTED SYSTEM WORK
+AI workflow orchestration: contributed workflow review screens, project health views, isolated Git workspaces, recorded attempts and approvals tied to evidence. Also worked on asynchronous cloud workers, AWS infrastructure, and cloud or Mac test execution selection.
+Stack: Python, FastAPI, React, TypeScript, PostgreSQL, AWS, Terraform.
+
+Business-data assistant: built a shared AI execution loop, permission-filtered tools, input validation, repeated-call protection, cancellation, conversation records, feedback and admin screens. Data work included Salesforce workflows, Snowflake account views, role-based masking, related-record search and automated briefings.
+Stack: TypeScript, Node.js, React, Snowflake, Prisma, AI tool calling.
+
+Healthcare test automation: built a Cucumber-based test framework and worked on AI-assisted test generation and an agentic system for planning and executing end-to-end checks.
+
+PUBLIC PROJECTS AND PROTOTYPES
+Browser testing workspace: self-hosted Next.js/Firebase/Playwright dashboard with suites, queued runs, separate web and worker processes, access roles and failure artifacts.
+https://github.com/harileexyz/open-automate
+
+Codebase visualization: local repository scanning, module diagrams, Git history analysis, narrated walkthroughs and video compositions using React, Remotion and Express.
+https://github.com/harileexyz/git-motion
+
+Desktop research workflow: Electron preview with sourced AI research, an original graphic, revision history, and approvals tied to the exact content. Social publishing and video rendering are not connected.
+https://github.com/harileexyz/content-studio
+
+Telemetry dashboard: adapted an existing race-replay project with a Next.js interface, Python data ingestion, Firebase uploads, cache, replay controls, driver comparison and mobile layouts.
+https://github.com/harileexyz/f1-replay
+
+Java test framework: browser flows, API checks and screenshot comparisons using Selenium, TestNG, REST Assured and report artifacts.
+https://github.com/harileexyz/AutomationFrameworkUI
 
 CAREER
 Lead Engineer, CitiusTech Healthcare | Feb 2025-present
@@ -33,4 +64,4 @@ Mobile App Developer, Develop Scripts | Jan 2019-Jan 2020
 EDUCATION
 Bachelor of Computer Applications, SRM Institute of Science and Technology, 2020.
 
-Project descriptions summarize my contributions to internal products. Private source code, internal data and product demonstrations are not included. Scope, availability and pricing can be discussed for your project.
+Internal system descriptions summarize my contributions without publishing proprietary code or data. Public repository links provide source examples, not hosted product demonstrations. Scope, availability and pricing can be discussed for each project.
