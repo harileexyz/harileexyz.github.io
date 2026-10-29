@@ -1,0 +1,35 @@
+HARIKRISHNAN V S
+Lead Engineer | AI Systems, Workflow Automation & Android
+Bengaluru, India | Remote freelance projects
+Email: leehari007@gmail.com
+Website: https://harileexyz.github.io/
+LinkedIn: https://www.linkedin.com/in/harikrishnan-code/
+GitHub: https://github.com/harileexyz
+
+ABOUT
+Lead engineer with 7+ years of experience building AI systems, cloud infrastructure, test automation and native Android applications. My work combines full-stack engineering with permission checks, human review and clear records of automated work.
+
+HOW I CAN HELP
+- AI assistants connected to your documents and business tools
+- AI workflows with review and approval steps
+- AWS services and worker infrastructure
+- Test automation frameworks and tool integrations
+- Native Android apps, app modernization and testing
+
+SELECTED WORK
+Forge: Contributed across the interface, backend and AWS infrastructure of an internal AI workflow platform. Built workflow review screens, project health views, isolated work runs, approval evidence, cloud workers and cloud/Mac test execution options.
+Technologies: Python, FastAPI, React, TypeScript, PostgreSQL, AWS, Terraform.
+
+Compass: Built full-stack features for an internal business intelligence platform. Contributions included a shared AI execution loop, permission-aware tools, conversation records, answer feedback, account data views and automated email briefings.
+Technologies: TypeScript, Node.js, Express, React, Prisma, Snowflake, ClickHouse.
+
+CAREER
+Lead Engineer, CitiusTech Healthcare | Feb 2025-present
+Technical Lead, Msigma | Aug 2023-Jan 2025
+Automation Engineer, Deloitte USI | Aug 2020-Jun 2023
+Mobile App Developer, Develop Scripts | Jan 2019-Jan 2020
+
+EDUCATION
+Bachelor of Computer Applications, SRM Institute of Science and Technology, 2020.
+
+Project descriptions summarize my contributions to internal products. Private source code, internal data and product demonstrations are not included. Scope, availability and pricing can be discussed for your project.
